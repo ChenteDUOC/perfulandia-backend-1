@@ -15,7 +15,7 @@ Este repositorio contiene el desarrollo técnico del sistema basado en microserv
 
 - `productservice`: > 📝 Microservicio dedicado a Insertar, Eliminar, Buscar y Listar productos.
 - `usuarioservice`: > 📝 Microservicio dedicado a Listar, Buscar, Insertar y Eliminar usuarios.
-- `carritoservice`: > 📝 .
+- `carritoservice`: > 📝 HAY QUE TRELLENAR .
 
 ## 🛠️ Tecnologías Utilizadas
 
